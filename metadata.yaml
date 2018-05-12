@@ -1,0 +1,35 @@
+_repo: Scenes-and-Characters-of-the-Middle-AgesThird-Edition_42824
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42824-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Cutts, Edward Lewes
+    alias: Cutts, E. L. (Edward Lewes)
+    birthdate: 1824
+    deathdate: 1901
+    gutenberg_agent_id: '41560'
+    url: http://www.gutenberg.org/2009/agents/41560
+description: ''
+gutenberg_issued: '2013-05-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42824'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'CB'
+- !lcc 'D'
+- !lcsh 'Civilization, Medieval'
+- !lcsh 'Middle Ages -- Social life and customs'
+tableOfContents: The monks of the Middle Ages -- The hermits and recluses of the Middle
+  Ages -- The pilgrims of the Middle Ages -- The secular clergy of the Middle Ages
+  -- The minstrels of the Middle Ages -- The knights of the Middle Ages -- The merchants
+  of the Middle Ages.
+title: 'Scenes and Characters of the Middle Ages
+
+  Third Edition'
+url: http://www.gutenberg.org/ebooks/42824
